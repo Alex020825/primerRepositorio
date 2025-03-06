@@ -1,0 +1,32 @@
+/*Comentarios*/
+
+/*Colores por nombres*/
+body{
+    background-color: red;
+}
+.pDiferente{
+    color: blue;
+}
+.negritaSemantica{
+    color: brown;
+}
+
+/*Colores codigo hexadecimal*/
+.pky{
+    color: #003500;
+}
+.colorRGB{
+    color:rgb(245, 160, 10);
+}
+.divRGBA{
+    width: 100%;
+    background-color: rgba(205, 100, 34, 70);
+    
+}
+.divHSL{
+    width: 40%;
+    background-color: hsl(177, 92%, 17%);
+    padding: 10px;
+    margin-top: 50px;
+    border:10px ;
+}
